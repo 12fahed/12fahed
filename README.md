@@ -1,6 +1,6 @@
 <h1 align="center">Grettings 👋, I'm I'm Fahed</h1>
 <h3 align="center">A Curious Learner</h3>
-<img align="right" alt="Coding" scr="coder.jpg" width="400" height="200" />
+<img align="right" alt="Coding" scr="coder.png" width="400" height="200" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12fahed&label=Profile%20views&color=0e75b6&style=flat" alt="12fahed" /> </p>
 
 - 🔭 I’m currently working on **Vaidya (A Medical Website)**
