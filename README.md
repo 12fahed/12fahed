@@ -2,7 +2,6 @@
 <h3 align="center">A Curious Learner</h3>
 
 <img align="right" alt="Coding" width="400" scr="![image](https://github.com/12fahed/12fahed/assets/127182880/a3045010-ca65-48dd-bce8-7c6ae922ad43)">
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12fahed&label=Profile%20views&color=0e75b6&style=flat" alt="12fahed" /> </p>
 
