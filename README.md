@@ -1,5 +1,5 @@
 <h1 align="center">Grettings! 👋, I'm Fahed</h1>
-<h3 align="center">A Curious Learner</h3>
+<h3 align="center">A Curious Learner &lt;/&gt;</h3>
 <img align="right" scr="Cartoon.jpg" width="226" height="268" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12fahed&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="12fahed" /> </p>
 
