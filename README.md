@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=12fahed&show_icons=true&locale=en&layout=compact&theme=dark" alt="12fahed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=12fahed&show_icons=true&locale=en&theme=dark" alt="12fahed" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=12fahed&show_icons=true&locale=en&theme=dark" alt="12fahed" /></p>
