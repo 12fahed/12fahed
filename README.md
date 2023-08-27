@@ -1,6 +1,6 @@
 <h1 align="center">Grettings 👋, I'm I'm Fahed</h1>
 <h3 align="center">A Curious Learner</h3>
-<img align="right" alt="Coding" width="400" scr="coder.png">
+<img align="right" scr="coder.png" width="400" height="200">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12fahed&label=Profile%20views&color=0e75b6&style=flat" alt="12fahed" /> </p>
 
 - 🔭 I’m currently working on **Vaidya (A Medical Website)**
@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=12fahed&show_icons=true&locale=en&layout=compact&theme=dark" alt="12fahed" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=12fahed&show_icons=true&locale=en&theme=dark" alt="12fahed" /></p>
+<--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=12fahed&show_icons=true&locale=en&theme=dark" alt="12fahed" /></p--->
