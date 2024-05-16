@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12fahed&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="12fahed" /> </p>
 
 - 🔭 I’m currently working on **Data Structure Project & Online Assesment Site**
-- 🌱 I’m currently learning **AI Ml**
+- 🌱 I’m currently learning **AI&Ml**
 - ❤️ [Personal Website](https://fahedhan12.wordpress.com/)
 - 🤝 I’m looking for help with **Django and Numpy**
 
