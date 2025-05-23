@@ -3,10 +3,9 @@
 <img align="right" src="Final.png" width="226" height="268" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12fahed&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="12fahed" /> </p>
 
-- 🔭 I’m currently working on **Data Structure Project & Online Assesment Site**
-- 🌱 I’m currently learning **AI&Ml**
+- 🔭 I’m currently working on **Optimisation**
+- 🌱 I’m currently learning **CNN**
 - ❤️ [Personal Website](https://fahedhan12.wordpress.com/)
-- 🤝 I’m looking for help with **Django and Numpy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
