@@ -1,107 +1,91 @@
-<h1 align="center">👋 Greetings! I'm Fahed Khan</h1>
-<h3 align="center">Machine Learning Enthusiast | Full-Stack Developer | Student Leader</h3>
+<h1 align="center">Grettings! 👋, I'm Fahed</h1>
+<h3 align="center">A Curious Learner</h3>
+<img align="right" src="Final.png" width="226" height="268" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=12fahed&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="12fahed" /> </p>
 
-<p align="center">
-  <a href="https://fahedhan12.wordpress.com/" target="_blank"><strong>Visit My Website 🚀</strong></a>
-</p>
+- 🔭 I’m currently working on **Optimisation**
+- 🌱 I’m currently learning **CNN**
+- ❤️ [Personal Website](https://fahedhan12.wordpress.com/)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=12fahed&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
-
-🎓 **Computer Engineering Student** at Thadomal Shahani Engineering College, Mumbai  
-📊 **CGPA**: 9.20 / 10  
-📚 Core Subjects: Data Structures, Operating Systems, Cloud Computing, Artificial Intelligence  
-
----
-
-### 🚀 About Me
-- 🔭 Currently building intelligent systems that scale and solve real-world problems.
-- 🤖 Passionate about **Machine Learning**, **AI**, and **End-to-End Product Development**.
-- 👨‍💻 Leading a 17-member team as **Chairperson at Developers Club, TSEC**.
-- 🌱 Learning advanced **Deep Learning** concepts and **model optimization**.
-- 🏆 Multi-time **Hackathon Winner** in ML and full-stack tracks.
-
----
-
-### 🛠️ Languages & Tools
-
-#### **Programming Languages**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-</p>
-
-#### **Frameworks & Libraries**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" />
-</p>
-
-#### **Databases**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-</p>
-
-#### **Tools & Platforms**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" />
-</p>
-
----
-
-### 🧠 Projects
-
-#### 🔹 [TSEC Devs Club Website](https://tsecdevsclub.com/)
-- Delivered exam scheduler, railway concession module, and role-based access control.
-- Reduced administrative queues by 80%, improved reliability by 60%.
-
-#### 🔹 [Bhraman – Smart Travel & Safety App](https://github.com/12fahed/Bhraman-Travel-Guide-and-Safety)
-- Fine-tuned BERT for semantic search.
-- Real-time safety predictions using LSTM + Random Forest.
-- Emergency alerts and AI-powered travel planner using Gemini Flash 2.0.
-
-#### 🔹 [Grahak – CRM App](https://github.com/12fahed/Grahak-CRM)
-- ML pipelines for fraud and churn prediction.
-- AI-generated ads using Pillow, textwrap, and Gemini APIs.
-- Recommendation engine using Cosine Similarity.
-
-#### 🔹 [PredicED – College Resource Planner](https://github.com/12fahed/Saboo-Siddik-Web)
-- Forecasted admissions via LSTM, resource allocation via CSP.
-- Timetable optimization using Genetic Algorithms.
-
----
-
-### 🏆 Achievements
-
-- 🥇 ML Track Winner – Hakanova 6.0  
-- 🥇 Winner – TSEC Hacks, Rubix, Hackoder 1.0  
-- 🏅 Finalist – Agnethon, Codeissance, Taqneeq
-
----
-
-### 📬 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/fahed-khan-13b11025b" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/__fahedkhan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=12fahed&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs" />
+<a href="https://linkedin.com/in/fahed khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahed khan" height="30" width="40" /></a>
+<a href="https://instagram.com/__fahedkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__fahedkhan" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=12fahed&show_icons=true&locale=en&theme=dark" alt="Stats" />
+  <!-- Programming languages -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+
+  <!-- Frontend -->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+
+  <!-- Backend -->
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+
+  <!-- Templating -->
+  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
+  </a>
+
+  <!-- Database -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  </a>
+
+  <!-- Other tools -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>
 </p>
+
+
+<br />
+<br />
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=12fahed&show_icons=true&locale=en&layout=compact&theme=dark" alt="12fahed" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=12fahed&show_icons=true&locale=en&theme=dark" alt="12fahed" /></p>
