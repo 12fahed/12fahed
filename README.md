@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fahed Javed Khan</h1>
+<h1 align="center">Hello , I'm Fahed Javed Khan</h1>
 <h3 align="center">Curious Learner | Developer | ML Enthusiast</h3>
 
 <p align="center">
@@ -7,16 +7,16 @@
   </a>
 </p>
 
-- 🔭 Currently working on **Optimization Projects and ML Applications**
-- 🌱 Currently learning **Convolutional Neural Networks (CNNs)**
-- 👨‍💻 My personal website: [fahedhan12.wordpress.com](https://fahedhan12.wordpress.com)
-- 💬 Ask me about **Machine Learning, Web Dev, Firebase, and AI**
-- 📫 How to reach me: fahedkhan12092004@gmail.com
-- ⚡ Fun fact: I love building tools that optimize real-world processes
+- Currently working on **Optimization Projects and ML Applications**
+- Currently learning **Convolutional Neural Networks (CNNs)**
+- My personal website: [fahedhan12.wordpress.com](https://fahedhan12.wordpress.com)
+- Ask me about **Machine Learning, Web Dev, Firebase, and AI**
+- How to reach me: fahedkhan12092004@gmail.com
+- Fun fact: I love building tools that optimize real-world processes
 
 ---
 
-### 🧠 Skills & Tech Stack
+### Skills & Tech Stack
 
 **Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -45,7 +45,7 @@ Hugging Face, LSTM, Random Forest, XGBoost, Isolation Forest, BERT, Gemini Flash
 
 ---
 
-### 🚀 Projects
+### Projects
 
 - 🔗 [TSEC Devs Club](https://tsecdevsclub.com/) — Optimized Firebase backend, SEO enhancements, Railway concession module (cutting queues by 80%)
 - 🔗 [Bhraman](https://github.com/12fahed/Bhraman-Travel-Guide-and-Safety) — ML-based travel safety guide using BERT, LSTM, and geospatial analysis
@@ -54,7 +54,7 @@ Hugging Face, LSTM, Random Forest, XGBoost, Isolation Forest, BERT, Gemini Flash
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
 - 🥇 **Winner**, Hakanova 6.0 (ML Track), TSEC Hacks, Rubix, Hackoder 1.0  
 - 🏅 **Finalist**, Agnethon, Taqneeq, Codeissance  
@@ -62,7 +62,7 @@ Hugging Face, LSTM, Random Forest, XGBoost, Isolation Forest, BERT, Gemini Flash
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahed-khan-13b11025b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/__fahedkhan)
