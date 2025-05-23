@@ -1,4 +1,4 @@
-<h1 align="center">Hello , I'm Fahed Javed Khan</h1>
+<h1 align="center">Hello , I'm Fahed Khan</h1>
 <h3 align="center">Curious Learner | Developer | ML Enthusiast</h3>
 
 <p align="center">
