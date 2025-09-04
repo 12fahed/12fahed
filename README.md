@@ -8,7 +8,6 @@
 </p>
 
 - Currently working on **Optimization Projects and ML Applications**
-- Currently learning **Convolutional Neural Networks (CNNs)**
 - My personal website: [fahedhan12.wordpress.com](https://fahedhan12.wordpress.com)
 - Ask me about **Machine Learning, Web Dev, Firebase, and AI**
 - How to reach me: fahedkhan12092004@gmail.com
