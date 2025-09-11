@@ -8,7 +8,7 @@
 </p>
 
 - Currently working on **Optimization Projects and ML Applications**
-- My personal website: [fahedhan12.wordpress.com](https://fahedhan12.wordpress.com)
+- My Portfolio: [fahed-khan.vercel.app](https://fahed-khan.vercel.app/)
 - Ask me about **Machine Learning, Web Dev, Firebase, and AI**
 - How to reach me: fahedkhan12092004@gmail.com
 - Fun fact: I love building tools that optimize real-world processes
