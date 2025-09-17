@@ -40,6 +40,7 @@
       <img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="javascript" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="typescript" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=dart" alt="dart" width="40" height="40"/>&nbsp;
     </td>
   </tr>
   <tr>
@@ -49,6 +50,7 @@
       <img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="css" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="react" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=next" alt="nextjs" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" alt="flutter" width="40" height="40"/>&nbsp;
     </td>
   </tr>
   <tr>
