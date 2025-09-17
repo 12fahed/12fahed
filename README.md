@@ -1,77 +1,123 @@
-<h1 align="center">Hello , I'm Fahed Khan</h1>
-<h3 align="center">Curious Learner | Developer | ML Enthusiast</h3>
+<div align="center">
+  <h1>Fahed Javed Khan</h1>
+</div>
+<div align="center">
+    <strong>Student | Developer | Contributor</strong>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
   <a href="https://github.com/12fahed">
-    <img src="https://komarev.com/ghpvc/?username=12fahed&label=Profile%20views&color=0e75b6&style=flat" alt="12fahed" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
+  <a href="https://linkedin.com/in/fahed-javed-khan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/12fahed">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:fahedkhan12092004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-- Currently working on **Optimization Projects and ML Applications**
-- My Portfolio: [fahed-khan.vercel.app](https://fahed-khan.vercel.app/)
-- Ask me about **Machine Learning, Web Dev, Firebase, and AI**
-- How to reach me: fahedkhan12092004@gmail.com
-- Fun fact: I love building tools that optimize real-world processes
+<hr>
 
----
+- 💼 Currently working as **Software Developer Intern** at MMMOCL
+- 🔭 Building scalable web applications and automation systems
+- 📧 Reach me at: **fahedkhan12092004@gmail.com**
 
-### Skills & Tech Stack
+<hr>
 
-**Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<table>
+  <tr>
+    <td><strong>Programming Languages:</strong></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="c" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="cplusplus" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="java" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="javascript" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="typescript" width="40" height="40"/>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend:</strong></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="html" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="css" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="react" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=next" alt="nextjs" width="40" height="40"/>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend:</strong></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=express" alt="express" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=flask" alt="flask" width="40" height="40"/>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Database:</strong></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="mysql" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase" alt="firebase" width="40" height="40"/>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Technologies:</strong></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="github" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="aws" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" alt="vercel" width="40" height="40"/>&nbsp;
+    </td>
+  </tr>
+</table>
 
-**Web & App:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+<hr>
 
-**Databases & Cloud:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+### Experiences
 
-**ML/AI Tools:**  
-Hugging Face, LSTM, Random Forest, XGBoost, Isolation Forest, BERT, Gemini Flash 2.0, Generative AI, OpenStreetMap
+- Software Developer Intern - MMMOCL (Jan 2025 - Present)
+- Software Developer Intern - DigiNomisma (June 2025 - July 2025)
+- Chairperson - Developers Club of TSEC (April 2024 - April 2025)
 
----
+<hr>
 
-### Projects
+### Publication
 
-- 🔗 [TSEC Devs Club](https://tsecdevsclub.com/) — Optimized Firebase backend, SEO enhancements, Railway concession module (cutting queues by 80%)
-- 🔗 [Bhraman](https://github.com/12fahed/Bhraman-Travel-Guide-and-Safety) — ML-based travel safety guide using BERT, LSTM, and geospatial analysis
-- 🔗 [Grahak](https://github.com/12fahed/Grahak-CRM) — CRM app with fraud/churn detection, anomaly detection, and AI ad generation
-- 🔗 [PredicED](https://github.com/12fahed/Saboo-Siddik-Web) — LSTM-driven college resource planner with CSP, XGBoost recommendations
+- [**mock-db-connector**](https://www.npmjs.com/package/mock-db-connector) - Zero-Dependency Mock Database Package
 
----
+<hr>
 
-### Achievements
+### Featured Projects
 
-- 🥇 **Winner**, Hakanova 6.0 (ML Track), TSEC Hacks, Rubix, Hackoder 1.0  
-- 🏅 **Finalist**, Agnethon, Taqneeq, Codeissance  
-- 🎖️ **Consolation Prize**, CodeSprint  
+- [**CertiNova**](https://certinova.vercel.app/) - Bulk Certificate Generator & Validation Platform
+- [**Grahak**](https://github.com/12fahed/Customer-Churn-Prediction-and-Proactive-Retention) - CRM Simulator for Churn Prediction
+- [**Bhraman**](https://github.com/12fahed/Bhraman-Travel-Guide-and-Safety) - Travel Safety Guide and Itenaries planner
+<hr>
 
----
+### Recognition
 
-### Connect with Me
+- 🌟 **Awarded by Principal** for TSEC App development
+- 🥇 **ML Track Winner** - Hakanova 6.0 by TCET
+- 🥇 **Winner** - TSEC Hacks, Mumbai
+- 🥇 **Winner** - Rubix, TSEC Mumbai
+- 🥇 **Winner** - Hackoder 1.0, SAKEC Mumbai
+- 🏅 **Consolation Prize** - CodeSprint, St. Aloysius
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahed-khan-13b11025b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/__fahedkhan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/12fahed)
+<hr>
+<br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=12fahed&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12fahed&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
----
+<hr>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=12fahed&show_icons=true&theme=dark" alt="Fahed's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12fahed&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+[![Fahed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=12fahed&theme=react-dark)](https://github.com/12fahed)
