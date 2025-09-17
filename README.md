@@ -17,8 +17,8 @@
   <a href="https://leetcode.com/12fahed">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="mailto:fahedkhan12092004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://fahed-khan.vercel.app">
+    <img src="https://img.shields.io/website?url=https://fahed-khan.vercel.app&up_message=Portfolio&style=for-the-badge&logo=website&logoColor=black" alt="Portfolio"/>
   </a>
 </div>
 
