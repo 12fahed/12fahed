@@ -91,6 +91,11 @@
 
 <hr>
 
+<!--
+### Open Source Contribution
+- [**requestly-automation**](https://github.com/requestly/requestly-automation) - Added query parameter manipulation utilities for URL automation
+-->
+
 ### Publication
 
 - [**mock-db-connector**](https://www.npmjs.com/package/mock-db-connector) - Zero-Dependency Mock Database Package
