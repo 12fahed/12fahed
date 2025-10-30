@@ -101,6 +101,7 @@
 
 ### Publication
 
+- [**csv-auto-datapipe**](https://www.npmjs.com/package/csv-auto-datapipe) - CSV to JSON parser, dynamically prepares schema and upload into database (MySQL, Postgres, MongoDB)
 - [**mock-db-connector**](https://www.npmjs.com/package/mock-db-connector) - Zero-Dependency Mock Database Package
 
 <hr>
