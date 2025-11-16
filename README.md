@@ -27,7 +27,6 @@
 
 <hr>
 
-- 💼 Currently working as **Software Developer Intern** at MMMOCL
 - 🔭 Building scalable web applications and automation systems
 - 📧 Reach me at: **fahedkhan12092004@gmail.com**
 
@@ -88,8 +87,8 @@
 
 ### Experiences
 
-- Software Developer Intern - MMMOCL (Jan 2025 - Present)
-- Software Developer Intern - DigiNomisma (June 2025 - July 2025)
+- Software Developer Intern - DigiNomisma (Sep 2025 - Oct 2025)
+- Software Developer Intern - MMMOCL (Jan 2025 - Aug 2025)
 - Chairperson - Developers Club of TSEC (April 2024 - April 2025)
 
 <hr>
