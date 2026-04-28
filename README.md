@@ -20,7 +20,7 @@
   <a href="https://fahed-khan.vercel.app">
     <img src="https://img.shields.io/website?url=https://fahed-khan.vercel.app&up_message=Portfolio&style=for-the-badge&logo=website&logoColor=black" alt="Portfolio"/>
   </a>
-  <a href="https://medium.com/@fahedkhan12092004">
+  <a href="https://medium.com/@12fahed">
     <img src="https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
