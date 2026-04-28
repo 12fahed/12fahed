@@ -36,49 +36,31 @@
   <tr>
     <td><strong>Programming Languages:</strong></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="c" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="cplusplus" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="java" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="javascript" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="typescript" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=dart" alt="dart" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,py,js,ts,dart" alt="c,cpp,java,py,js,ts,dart" height="40"/>&nbsp;
     </td>
   </tr>
   <tr>
     <td><strong>Frontend:</strong></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="html" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="css" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="react" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=next" alt="nextjs" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" alt="flutter" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,next,flutter" alt="html,css,react,next,flutter" height="40"/>&nbsp;
     </td>
   </tr>
   <tr>
     <td><strong>Backend:</strong></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=express" alt="express" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=flask" alt="flask" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,flask" alt="nodejs,express,flask" height="40"/>&nbsp;
     </td>
   </tr>
   <tr>
     <td><strong>Database:</strong></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="mysql" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase" alt="firebase" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,firebase,redis" alt="mysql,mongodb,firebase,redis" height="40"/>&nbsp;
     </td>
   </tr>
   <tr>
     <td><strong>Tools & Technologies:</strong></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="github" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="aws" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" alt="vercel" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,aws,vercel,hasura" alt="git,github,docker,aws,vercel,hasura" height="40"/>&nbsp;
     </td>
   </tr>
 </table>
